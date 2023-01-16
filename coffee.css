@@ -1,0 +1,171 @@
+.bg{
+    background-image: url('./coffee/Coffee\ Beans\ by\ Siede\ Preis.jpg');height: 700px;
+   
+}
+body{
+    background-color: #1a0000;
+   
+    
+}
+
+
+
+    
+
+.title>h1{
+       font-size: 60px;
+    color: #f3f3f3;
+   padding-top: 200px;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 12px;
+}
+
+.title>h3{
+       
+    color: #f3f3f3;
+font-size: 30px;
+    text-align:center;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 10px;
+}
+img{
+    width: 380px;
+    height: 380px;
+    justify-content: center;
+    display: flex;
+    border-radius: 15px 15px 15px 15px;
+    margin: 40px;
+    
+   
+    
+}
+img:hover{
+    transform: scale(1.1);
+}
+.cap>h3{
+    color: #f3f3f3;
+    margin: 5px;
+    padding-left: 10px;
+    
+    
+    
+}
+.cap{
+   border:#f3f3f3 ;
+    align-items:center;
+   display:inline-block;
+   color: #f3f3f3;
+   padding: -10px;
+}
+p{color: #f3f3f3;
+
+}
+
+.nav-bar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    color: #f3f3f3;
+    
+    padding-top: 25px;
+}
+.menu li :hover{
+color: #f30000;
+}
+.menu li{
+    list-style: none;
+    display: inline-block;
+}
+.menu li a{
+    text-decoration: none;
+    color: #f3f3f3;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.p{
+   width: 10px;
+   color: #f3f3f3;
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+    
+   
+}
+h4{
+    color: #f3f3f3;
+    padding-left: 5px;
+}
+h4:hover{
+    color: #e40303;
+}
+
+button{
+    background-color: black;
+    color: #f3f3f3;
+}
+button:hover{
+    transform: scale(1.1);
+}
+
+.head{
+    color: #f3f3f3;
+    text-align: center;
+    font-size: 50px;
+    padding: 200px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.iframe{
+    
+    margin: 10px;
+}
+.h5{
+    color: #f3f3f3;
+    margin: 20px;
+}
+.log{
+    color: #f3f3f3;
+    text-align: end;
+    padding-right: 100px;
+}
+
+.so{
+    color: #f3f3f3;
+    margin: 5px;
+}
+.men{
+    color: #f3f3f3;
+    text-align: center;
+    letter-spacing: 40px;
+    padding-top: 100px;
+}
+
+.h1{
+    color: #f3f3f3;
+    text-align: center;
+}
+
+.im{
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+.email{
+    padding-left: 200px;
+   
+    display: flex;
+
+}
+.row{
+    color: #f3f3f3;
+}
+.rev-img{
+    height: 210px;
+    width: 300px;
+} 
+.q{
+    padding-top: 100px;
+}
